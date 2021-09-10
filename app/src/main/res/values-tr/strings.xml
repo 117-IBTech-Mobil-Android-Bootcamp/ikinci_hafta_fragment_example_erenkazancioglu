@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">patikadevweek2</string>
+    <string name="button_start_now_text">Şimdi Başla</string>
+    <string name="textview_vocabulary_test_title">Kelime Testi</string>
+    <string name="textview_skip_title">Atla</string>
+    <string name="start_now_text">Kelime Testi, Sizin dil seviyenizi ölçmek içindir. Test sonunda doğru ve yanlışlarınızı görebileceksiniz!</string>
+</resources>

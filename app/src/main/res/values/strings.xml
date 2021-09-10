@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">patikadevweek2</string>
+    <string name="button_start_now_text">Start Now</string>
+    <string name="textview_vocabulary_test_title">Vocabulary Test</string>
+    <string name="textview_skip_title">Skip</string>
+    <string name="start_now_text">The Vocabulary Test is to measure Your language level. At the end of the test, you will be able to see your right and wrong!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
